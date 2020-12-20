@@ -3,7 +3,7 @@ CS:GO Crosshair Generator
 
 A crosshair generator for [Counter-Strike:Global Offensive](http://store.steampowered.com/app/730/).
 
-Website: [KrisSkarbo.com/CSGOCrosshair](http://krisskarbo.com/csgocrosshair);
+Website: [Procrosshair.com/CSGOCrosshair](https://procrosshair.com/csgocrosshair/)
 
 ![CS:GO Crosshair Generator][1]
 
